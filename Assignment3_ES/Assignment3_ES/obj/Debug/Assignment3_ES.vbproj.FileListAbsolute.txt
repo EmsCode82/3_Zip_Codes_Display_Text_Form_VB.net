@@ -1,0 +1,24 @@
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment3_ES\Assignment3_ES\bin\Debug\Assignment3_ES.exe.config
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment3_ES\Assignment3_ES\bin\Debug\Assignment3_ES.exe
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment3_ES\Assignment3_ES\bin\Debug\Assignment3_ES.pdb
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment3_ES\Assignment3_ES\bin\Debug\Assignment3_ES.xml
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.vbproj.AssemblyReference.cache
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.Form1.resources
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.Resources.resources
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.vbproj.GenerateResource.cache
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.vbproj.CoreCompileInputs.cache
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.exe
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.xml
+C:\Users\e5sco\Desktop\IT-111\IT-101\Assignments\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.pdb
+C:\Users\e5sco\Desktop\Git Pushes\3\Assignment3_ES\Assignment3_ES\bin\Debug\Assignment3_ES.exe.config
+C:\Users\e5sco\Desktop\Git Pushes\3\Assignment3_ES\Assignment3_ES\bin\Debug\Assignment3_ES.exe
+C:\Users\e5sco\Desktop\Git Pushes\3\Assignment3_ES\Assignment3_ES\bin\Debug\Assignment3_ES.pdb
+C:\Users\e5sco\Desktop\Git Pushes\3\Assignment3_ES\Assignment3_ES\bin\Debug\Assignment3_ES.xml
+C:\Users\e5sco\Desktop\Git Pushes\3\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.vbproj.AssemblyReference.cache
+C:\Users\e5sco\Desktop\Git Pushes\3\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.Form1.resources
+C:\Users\e5sco\Desktop\Git Pushes\3\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.Resources.resources
+C:\Users\e5sco\Desktop\Git Pushes\3\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.vbproj.GenerateResource.cache
+C:\Users\e5sco\Desktop\Git Pushes\3\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.vbproj.CoreCompileInputs.cache
+C:\Users\e5sco\Desktop\Git Pushes\3\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.exe
+C:\Users\e5sco\Desktop\Git Pushes\3\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.xml
+C:\Users\e5sco\Desktop\Git Pushes\3\Assignment3_ES\Assignment3_ES\obj\Debug\Assignment3_ES.pdb
